@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterpender",
+        "uuid": 22349250,
+        "checksum": "7550k"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
